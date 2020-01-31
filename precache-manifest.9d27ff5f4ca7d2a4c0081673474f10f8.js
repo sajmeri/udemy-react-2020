@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c13501cfa44c2a3e2c544b6b0c8f2aa4",
+    "revision": "24cf0b36dcf55b1d3be72aee255ca511",
     "url": "/udemy-react-2020/index.html"
   },
   {
-    "revision": "68403ee1044288210632",
+    "revision": "0b25a6d79f07b7389e57",
     "url": "/udemy-react-2020/static/css/main.cb951dab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/udemy-react-2020/static/js/2.a8b7be0e.chunk.js.LICENSE"
   },
   {
-    "revision": "68403ee1044288210632",
-    "url": "/udemy-react-2020/static/js/main.3f7a447a.chunk.js"
+    "revision": "0b25a6d79f07b7389e57",
+    "url": "/udemy-react-2020/static/js/main.fbb7e040.chunk.js"
   },
   {
     "revision": "47cd428be275d4e37fff",
