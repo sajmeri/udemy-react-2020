@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  font-family: Anton;
+  font-size: 34px;
+  color: #61dafb
+}
