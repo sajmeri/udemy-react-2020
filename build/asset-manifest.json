@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/udemy-react-2020/static/css/main.cb951dab.chunk.css",
-    "main.js": "/udemy-react-2020/static/js/main.3f7a447a.chunk.js",
-    "main.js.map": "/udemy-react-2020/static/js/main.3f7a447a.chunk.js.map",
+    "main.js": "/udemy-react-2020/static/js/main.fbb7e040.chunk.js",
+    "main.js.map": "/udemy-react-2020/static/js/main.fbb7e040.chunk.js.map",
     "runtime-main.js": "/udemy-react-2020/static/js/runtime-main.d952f9a2.js",
     "runtime-main.js.map": "/udemy-react-2020/static/js/runtime-main.d952f9a2.js.map",
     "static/js/2.a8b7be0e.chunk.js": "/udemy-react-2020/static/js/2.a8b7be0e.chunk.js",
     "static/js/2.a8b7be0e.chunk.js.map": "/udemy-react-2020/static/js/2.a8b7be0e.chunk.js.map",
     "index.html": "/udemy-react-2020/index.html",
-    "precache-manifest.a1fa4e9327cfc3b27535edbe428ccda7.js": "/udemy-react-2020/precache-manifest.a1fa4e9327cfc3b27535edbe428ccda7.js",
+    "precache-manifest.9d27ff5f4ca7d2a4c0081673474f10f8.js": "/udemy-react-2020/precache-manifest.9d27ff5f4ca7d2a4c0081673474f10f8.js",
     "service-worker.js": "/udemy-react-2020/service-worker.js",
     "static/css/main.cb951dab.chunk.css.map": "/udemy-react-2020/static/css/main.cb951dab.chunk.css.map",
     "static/js/2.a8b7be0e.chunk.js.LICENSE": "/udemy-react-2020/static/js/2.a8b7be0e.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d952f9a2.js",
     "static/js/2.a8b7be0e.chunk.js",
     "static/css/main.cb951dab.chunk.css",
-    "static/js/main.3f7a447a.chunk.js"
+    "static/js/main.fbb7e040.chunk.js"
   ]
 }
